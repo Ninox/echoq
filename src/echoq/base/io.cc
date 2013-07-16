@@ -1,11 +1,11 @@
 /*=============================================================================
-#     FileName: eqSocket.cc
-#         Desc: the socket wrapper implements
+#     FileName: io.cc
+#         Desc: local I/O operation implement
 #       Author: drzunny
 #        Email: drzunny@hotmail.com
 #     HomePage: http://drzlab.info
 #      Version: 0.1.0
-#   LastChange: 2013-07-16 21:00:13
+#   LastChange: 2013-07-17 00:11:44
 #      History:
 =============================================================================*/
-#include "eqSocket.h"
+#include "io.h"

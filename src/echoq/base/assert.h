@@ -31,8 +31,8 @@ namespace base    {
             else
                   printf("echoq assert happened!\nfile   :%s\nline   :%d\nexpr   :%s\n",
                           filename, line, expr);
-            abort();
 #endif
+            abort();
       }
 
 #define ECHOQ_ASSERT(boolExpr, info)      \

@@ -27,8 +27,8 @@ namespace echoq   {
 
             eqTimerEvent _callback;
       };
-}     // end of echoq
 
+}     /*    end of echoq    */
 
 #endif /* end of include guard: _ECHOQ_TIMER_H_ */
 
