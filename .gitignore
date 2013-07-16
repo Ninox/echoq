@@ -1,0 +1,7 @@
+.clang_complete
+*.pyc
+bin
+*.o
+*.obj
+*.sdf
+*.echoq

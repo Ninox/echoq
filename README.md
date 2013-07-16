@@ -2,7 +2,7 @@
 
 echo-q is a simple, lightweight message queue **SERVICE**.
 
-it enable us to transfer the message from different server(*or Process*) more easily!
+it enable us to transfer the message from different server( *or Process* ) more easily!
 
 **echoq** is both a server and a client. a echoq service can send/recv message from another service.
 
