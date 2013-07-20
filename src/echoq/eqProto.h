@@ -1,11 +1,11 @@
 /*=============================================================================
-#     FileName: dataproto.h
+#     FileName: eqProto.h
 #         Desc: echoq's network protocol
 #       Author: drzunny
 #        Email: drzunny@hotmail.com
 #     HomePage: http://drzlab.info
 #      Version: 0.1.0
-#   LastChange: 2013-07-06 14:08:20
+#   LastChange: 2013-07-20 13:54:43
 #      History:
 =============================================================================*/
 

@@ -5,7 +5,7 @@
 #        Email: drzunny@hotmail.com
 #     HomePage: http://drzlab.info
 #      Version: 0.1.0
-#   LastChange: 2013-07-16 21:36:05
+#   LastChange: 2013-07-20 13:54:35
 #      History:
 =============================================================================*/
 #include "eqProto.h"

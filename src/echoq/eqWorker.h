@@ -5,7 +5,7 @@
 #        Email: drzunny@hotmail.com
 #     HomePage: http://drzlab.info
 #      Version: 0.1.0
-#   LastChange: 2013-07-16 20:57:15
+#   LastChange: 2013-07-20 13:55:25
 #      History:
 =============================================================================*/
 #ifndef ECHOQ_WORKER_H

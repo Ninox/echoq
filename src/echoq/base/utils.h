@@ -1,27 +1,21 @@
 /*=============================================================================
-#     FileName: eqAcceptor.h
-#         Desc: echoq's connection acceptor
+#     FileName: utils.h
+#         Desc: common utils of echoq
 #       Author: drzunny
 #        Email: drzunny@hotmail.com
 #     HomePage: http://drzlab.info
 #      Version: 0.1.0
-#   LastChange: 2013-07-20 13:55:15
+#   LastChange: 2013-07-20 13:49:01
 #      History:
 =============================================================================*/
-#ifndef ECHOQ_ACCEPTOR_H
-#define ECHOQ_ACCEPTOR_H
+#ifndef ECHOQ_BASE_UTILS_H
+#define ECHOQ_BASE_UTILS_H
 
 namespace echoq   {
-
-      class eqAcceptor  {
-      public:
-            eqAcceptor(arguments);
-            ~eqAcceptor();
-      
-      private:
-      };
-
+namespace base    {
+}     /*    end of base    */
 }     /*    end of echoq    */
 
-#endif /* end of include guard: ECHOQ_ACCEPTOR_H */
+
+#endif /* end of include guard: ECHOQ_BASE_UTILS_H */
 
